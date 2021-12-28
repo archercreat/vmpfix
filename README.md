@@ -124,7 +124,7 @@ Successfully unpacked, dumped and ran:
 `vncviewer.exe x64 4158a5e55cbd6a5a8f4ed38befe2a8c9fa0c7a7fbc91709a31592dda95110517`
 
 ## Credits
-https://github.com/build-cpp/cmk
+https://github.com/build-cpp/cmkr
 
 https://github.com/can1357/linux-pe
 
